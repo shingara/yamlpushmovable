@@ -1,0 +1,11 @@
+:host: localhost
+:port: 3000
+:path: /backend/xmlrpc
+:username: shingara
+:password: mypassword
+:blog_id: 1
+:pusblish: true
+:content:
+  :title: Un super titre
+  :description: une belle description
+  :mt_keywords: tag1 tag2
