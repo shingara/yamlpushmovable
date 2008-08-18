@@ -1,0 +1,5 @@
+This application can push a yaml conf file by movable API
+
+so the test.yaml is an exemple and you just use :
+
+./yamlpushmovable file.yaml
